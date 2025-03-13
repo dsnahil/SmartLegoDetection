@@ -25,7 +25,7 @@ def load_model(model_path, device):
     return model
 
 # Function to perform inference on a single image and display the result
-def run_inference(model, image_path, device, score_threshold=0.5, display=True):
+def run_inference(model, image_path, device, score_threshold=0.5, display=True)
     # Define transform
     transform = T.Compose([T.ToTensor()])
     # Open image
