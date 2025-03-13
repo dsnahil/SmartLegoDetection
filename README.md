@@ -100,6 +100,8 @@ python reduced.py
 
 **Output:**  
 - A message indicating the progress of annotation validation.
+- ![image](https://github.com/user-attachments/assets/cd6d2db2-cf49-40b0-a918-891e5a0e1840)
+
 - Creation of the `reduced/` folder structure with `train/`, `val/`, and `test/` splits.
 
 ### 2. Model Training
