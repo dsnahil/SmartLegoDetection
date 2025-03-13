@@ -3,7 +3,7 @@
 This project uses deep learning to demonstrate an end-to-end pipeline for detecting and counting LEGO pieces in synthetic images. The pipeline includes:
 
 1. **Dataset Reduction:**  
-   A script to reduce a large synthetic dataset by validating, sampling, and splitting image-annotation pairs.
+   A script to reduce a large synthetic dataset by validating, sampling, and splitting  image-annotation pairs.
 
 2. **Model Training:**  
    A custom PyTorch dataset and training script to fine-tune a pre-trained Faster R-CNN model for detecting LEGO pieces.
